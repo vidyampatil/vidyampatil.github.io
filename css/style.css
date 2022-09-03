@@ -7091,8 +7091,9 @@ object,
 video {
     display: inline-block;
     vertical-align: baseline;
-    min-width: 100%;
-    min-height: 100%
+    min-width: 100%;;
+    min-height: 100%;
+    border: 1px solid #544d4d;
 }
 
 .de-video-container {
